@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Deprecated
+- Added a deprecation property to composer.json.
 - Deprecated the package in favor of Connection.
 
 ## [1.9.20] - 2022-02-22
